@@ -72,3 +72,5 @@ int main(void)
  return 0;
 }
 ~~~
+
+categories: “형성평가”
